@@ -22,7 +22,7 @@ A sleek and responsive movie discovery platform built with Next.js, React Query,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tanverified/movie-app.git
+   git clone https://github.com/tanverified/movies.git
    ```
 
 2. Install dependencies:
@@ -196,4 +196,4 @@ This project is licensed under the MIT License.
 
 Made with ❤️ by Tanveer
 
-[GitHub Repository](https://github.com/tanverified/movie-app.git)
+[GitHub Repository](https://github.com/tanverified/movies.git)
